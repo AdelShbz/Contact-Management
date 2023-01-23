@@ -17,7 +17,7 @@ You can manage your contacts using these options.
 7. AutoComplete Search (word completion)
 0. Exit
 
-### Information contacts
+### Contact information
 1. First name
 2. Last name
 3. Gender
