@@ -5,8 +5,8 @@ Contact CLI Application
 This was my final semester project in my university.
 
 ## Features
-You can manage your contacts using these options.
 
+You can manage your contacts using these options.
 ### Options
 1. Add contact
 2. Display contacts
@@ -17,6 +17,7 @@ You can manage your contacts using these options.
 7. AutoComplete Search (word completion)
 0. Exit
 
+Each contact includes the following information.
 ### Contact information
 1. First name
 2. Last name
