@@ -1,2 +1,2 @@
 # Contacts_Application
-contact CLI application
+Contact CLI Application
